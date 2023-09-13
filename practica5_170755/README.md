@@ -15,8 +15,8 @@ Aplicación 5: aplicacion flutter con carts
 &nbsp;
 |  Característica |  Información |
 | :------------: | :------------: |
-| Nombre | **Aplicación 5* aplicacion flutter con carts* |
-| Descripción  |creacion de una aplicacion de flutter con carts|
+| Nombre | **Aplicación 5* aplicacion flutter con cards* |
+| Descripción  |creacion de una aplicacion de flutter con cards|
 |  Fecha de Carga | 08/09/23  |
 
 A new Flutter project.
