@@ -3,7 +3,7 @@
 <div align="Justify">
 
 # DMI_Practica5_170755
-Aplicación 5: aplicacion flutter con carts
+Aplicación 5: aplicacion flutter con cards
 # Universidad Tecnológica de Xicotepec de Juárez
 
 ## Ingeniería en Desarrollo y Gestión de Software
