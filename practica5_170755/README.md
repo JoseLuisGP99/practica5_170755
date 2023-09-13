@@ -1,4 +1,23 @@
-# practica5_170755
+[![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://i.postimg.cc/15q3LFXF/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)](https://postimg.cc/MvzwBvyZ)
+
+<div align="Justify">
+
+# DMI_Practica5_170755
+Aplicación 5: aplicacion flutter con carts
+# Universidad Tecnológica de Xicotepec de Juárez
+
+## Ingeniería en Desarrollo y Gestión de Software
+## Jose Luis Galindo Picazo
+## 10A
+### Desarrollo Movil Integral
+
+&nbsp;
+&nbsp;
+|  Característica |  Información |
+| :------------: | :------------: |
+| Nombre | **Aplicación 5* aplicacion flutter con carts* |
+| Descripción  |creacion de una aplicacion de flutter con carts|
+|  Fecha de Carga | 08/09/23  |
 
 A new Flutter project.
 
