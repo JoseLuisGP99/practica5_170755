@@ -6,7 +6,7 @@
 Aplicación 5: aplicacion flutter con cards
 # Universidad Tecnológica de Xicotepec de Juárez
 ## Descripción
-
+Creacion de una aplicacion haciendo uso de steteless widget
 ## Ingeniería en Desarrollo y Gestión de Software
 ## Jose Luis Galindo Picazo
 ## 10A
