@@ -2,7 +2,7 @@
 
 <div align="Justify">
 
-# DMI_Practica5_170755
+# DMI_Practica5_170755 Aplicación uso de steteless widget
 Aplicación 5: aplicacion flutter con cards
 # Universidad Tecnológica de Xicotepec de Juárez
 ## Descripción
