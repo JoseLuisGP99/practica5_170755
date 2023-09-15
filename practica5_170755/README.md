@@ -5,6 +5,7 @@
 # DMI_Practica5_170755
 Aplicación 5: aplicacion flutter con cards
 # Universidad Tecnológica de Xicotepec de Juárez
+## Descripción
 
 ## Ingeniería en Desarrollo y Gestión de Software
 ## Jose Luis Galindo Picazo
